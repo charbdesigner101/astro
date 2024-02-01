@@ -1,7 +1,17 @@
 paths:
   uploads: uploads
   static: ''
-  collections: ''
+  collections: 
+  collections_config:
+  pages:
+    path: content
+    output: true
+    filter: strict
+    parse_branch_index: true
+    icon: notes
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
   data: ''
   layouts:
 collections_config: {}
