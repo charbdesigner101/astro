@@ -8,7 +8,7 @@ collections_config: {}
 _inputs: {}
 _select_data: {}
 _structures: {}
-_editables: {_editables:
+_editables:
   content:
     bold: true
     italic: true
@@ -17,6 +17,6 @@ _editables: {_editables:
     image: true
     table: true
     undo: true
-    redo: true}
+    redo: true
 
 timezone: Etc/UTC
