@@ -9,9 +9,9 @@ paths:
     filter: strict
     parse_branch_index: true
     icon: notes
-    disable_add: false
-    disable_add_folder: false
-    disable_file_actions: false
+    disable_add: true
+    disable_add_folder: true
+    disable_file_actions: true
   data: ''
   layouts:
 collections_config: {}
